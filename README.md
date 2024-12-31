@@ -32,10 +32,8 @@ The inspiration of this repo is to take some of the best parts of the NetBox & t
 
 Not looking to mess around with the organization model too much. It's pretty solid as is.
 
-- Sites
-- Regions
-- Site Roles (Rename NetBox Site Groups)
-- Locations
+- Locations (consolidate sites, regions, locations similar to Nautobot as suggested by @tyler-8)
+- Location Roles (Rename NetBox Site Groups)
 - Contact Groups
 - Contacts
 - Contact Roles
